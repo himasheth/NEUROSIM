@@ -215,7 +215,7 @@ function final_model
     alphaf = 0.5;
     rCBF = (Fin)/F0;
     
-    %BOLD variables
+    %BOLD (Blood Oyxgen Level Dependant) variables 
     E0 = 0.4;
     k1 = 7;
     k2 = 2;
