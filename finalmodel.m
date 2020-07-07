@@ -156,71 +156,7 @@ function final_model
     LACc=S(13);
     Vv=S(14);
     dHb=S(15);
-    
-    
-    %declare model parameters
-    global SmVi;
-    global gNa ;
-    global F ;
-    global RTF ;
-    global Nae ; 
-    global Vm;
-    global kpump;
-    global kmpump;
-    global TmaxGLC;
-    global KtGLC;
-    global kHKPFK;
-    global ktATP;
-    global nH;
-    global Kg;
-    global kPGK;
-    global N;
-    global kPK;
-    global kLDH1; %positive
-    global kLDH2; %negative
-    global TmaxLAC;
-    global KtLAC;
-    global kCK1; %positive
-    global kCK2; %negative
-    global C;
-    global PScapVi;
-    global Ko2;
-    global HbOP;
-    global nh;
-    global Vcap;
-    global O2a;
-    global GLCa;
-    global LACa;
-    global F0;
-    global A;
-    global VvO;
-    global Tv;
-    global nOP;
-    global alpha;
-    global qAK;
-    global nAero;
-    global rc;
-    global Fin;
-    global vstim;
-    global KO2i;
-    global KiMito;
-    global vMito0;
-    global KmMito;
-    global rCBF;
-    global AMP;
-    global NAD;
-    global ADP;
-    global Fout;
-    global dAMP_dATP;
-    global alphaf;
-    global k1;
-    global k2;
-    global k3;
-    global E0;
-    global dHb0;
-    
-    
-    
+   
     
     % ================================ assign parameter values =======================================
     
